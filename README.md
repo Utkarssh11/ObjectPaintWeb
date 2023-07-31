@@ -31,6 +31,9 @@ We implemented a factory class responsible for creating the suitable shape using
 ### Prototype Design Pattern
 We applied this pattern in the undo/redo functions where we needed to clone shapes from the redo stack to the undo stack and vice versa. This allowed us to make changes in one without affecting the other. Each class has implemented a clone function that overrides the clone function in the abstract parent class (Shapes).
 
+## UML Class Diagram 📊
+
+![UML Class Diagram](path/to/uml-class-diagram.png)
 ## How to Run 🏃‍♀️
 
 1. Open any IDE for Java (IntelliJ, Eclipse, etc.).

@@ -33,7 +33,7 @@ We applied this pattern in the undo/redo functions where we needed to clone shap
 
 ## UML Class Diagram 📊
 
-![UML Class Diagram](path/to/uml-class-diagram.png)
+![UML Class Diagram](https://github.com/Utkarssh11/ObjectPaintWeb/blob/main/uml.png?raw=true)
 ## How to Run 🏃‍♀️
 
 1. Open any IDE for Java (IntelliJ, Eclipse, etc.).
